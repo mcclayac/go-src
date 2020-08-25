@@ -1,4 +1,5 @@
 // Example of "it" statement
+// Anthony McCkay
 package main
 
 import (
